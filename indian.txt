@@ -6,3 +6,4 @@ Gurgaon
 Noida
 Pune
 Banglore
+Indore
